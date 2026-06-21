@@ -1,0 +1,8 @@
+{
+  "name": "Enterprise MIS System",
+  "description": "Enterprise-grade financial and project intelligence MIS portfolio dashboard for May 2026, registered under Mr. Akrit Pandey.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
